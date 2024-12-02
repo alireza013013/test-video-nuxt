@@ -11,10 +11,10 @@
     </video>
 
 
-    <video controls autoplay muted playsinline width="640" height="360">
+    <!-- <video controls autoplay muted playsinline width="640" height="360">
       <source src="https://boomilia.com/media/media/78b2c406497b444ea3e0beada80f98c7.mp4" type="video/mp4" />
       مرورگر شما از ویدیو پشتیبانی نمی‌کند.
-    </video>
+    </video> -->
   </div>
 </template>
 
